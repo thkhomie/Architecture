@@ -24,7 +24,7 @@ export default function Footer() {
                 </div>
             </div>
 
-            <div className="bg-darkBlue text-xs text-white text-center p-4">&copy; All Rights Reserved</div>
+            <div className="bg-darkBlue text-xs text-white text-center p-4">&copy; 2024 All Rights Reserved</div>
         </>
 
     )
